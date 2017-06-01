@@ -1,0 +1,10 @@
+package: github.com/egawata/menu_honyaku
+import:
+- package: github.com/revel/revel
+  version: ^0.15.0
+  subpackages:
+  - testing
+- package: github.com/revel/cmd
+  version: ^0.15.0
+- package: github.com/revel/modules
+  version: ^0.15.0
